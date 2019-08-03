@@ -1,6 +1,6 @@
 # flutter_app_chopper
 
-A new Flutter application.
+chopper for who knows retrofit
 
 ## Getting Started
 
